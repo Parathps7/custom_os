@@ -1,5 +1,13 @@
 # nanobyte_os
-This repository contains the code from the ["Building an OS"](https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN) series on the ["Nanobyte"](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA) YouTube channel.
+This repository contains the code from the by students of National Institute of Technology, Srinagar 2020-24 batch Group 4.
+```
+Group Members:
+1.Parath Safaya
+2.Hemanshu Sharma
+3.Rishav Hodoker
+4.Rohit Katal
+5.Nitin Sharma
+```
 
 ## Building
 
@@ -29,7 +37,3 @@ After that, run `scons toolchain`, this should download and build the required t
 
 Finally, you should be able to run `scons`. Use `scons run` to test your OS using qemu.
 
-## Links
-
-* [Discord channel](https://discord.gg/RgHc5XrCEw)
-* [Patreon](https://www.patreon.com/nanobyte)
