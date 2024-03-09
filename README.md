@@ -2,11 +2,11 @@
 This repository contains the code from the by students of National Institute of Technology, Srinagar 2020-24 batch Group 4.
 ```
 Group Members:
-1.Parath Safaya
-2.Hemanshu Sharma
-3.Rishav Hodoker
-4.Rohit Katal
-5.Nitin Sharma
+1.Parath Safaya(2020BITE022)
+2.Hemanshu Sharma(2020BITE023)
+3.Rishav Hodoker(2020BITE082)
+4.Rohit Katal(2020BITE008)
+5.Nitin Sharma(2020BITE034)
 ```
 
 ## Building
